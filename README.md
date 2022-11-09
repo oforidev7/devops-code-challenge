@@ -1,3 +1,12 @@
+The application is hosted on an EC2 instance provisioned with terraform. Application is dockerized and containers are managed using deocker-compose.
+
+The frontend url is http://54.204.163.39:3000/
+
+The backend url is http://54.204.163.39:8080/
+
+The repository url is https://github.com/oforidev7/devops-code-challenge
+
+
 # Overview
 This repository contains a React frontend, and an Express backend that the frontend connects to.
 
